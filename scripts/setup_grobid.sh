@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # put in your pdf2json directory here
-export PDF2JSON_HOME=$HOME/git/s2orc-pdf2json
+export PDF2JSON_HOME=$HOME/repos/s2orc-pdf2json
 
 # Download Grobid
 cd $HOME
